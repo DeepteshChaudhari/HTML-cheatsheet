@@ -1,0 +1,47 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  
+  }
+  *{
+    background-color:rgb(36, 31, 31);
+    color:white;
+  }
+  .content{
+    font-family: 'Potta One', cursive;
+    font-size: 44px;
+  }
+  .container{
+    width:90vw;
+    padding:10px 10px;
+    margin:auto;
+    font-family: 'Roboto', sans-serif;
+    font-weight:bold;
+    font-size: 24px;
+  }
+  nav{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background-color:#444444;
+    color:white;
+    height:120px;
+  }
+  .logo {
+    padding:0px;
+    margin: 10px;
+  }
+  
+  
+  .logo img {
+    width:80px;
+  }
+  fieldset{
+    padding:20px;
+    margin:10px;
+  }
+  hr {
+    height:0;
+    margin:0;
+    border:1px solid red;
+  }
